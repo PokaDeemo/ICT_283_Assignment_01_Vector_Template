@@ -1,0 +1,4 @@
+<map id="SetWeather" name="SetWeather">
+<area shape="rect" id="node1" title="setter for the Time that is calling from the Time class" alt="" coords="139,5,229,31"/>
+<area shape="rect" id="node2" href="$_windlog_8cpp.html#a2b32b6ea10f2304dbc5d094c9ed87b95" title="an overload output operator. Use to output the object or result" alt="" coords="5,5,91,31"/>
+</map>

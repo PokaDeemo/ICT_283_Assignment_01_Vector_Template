@@ -1,0 +1,6 @@
+<map id="operator&gt;&gt;" name="operator&gt;&gt;">
+<area shape="rect" id="node1" title="an overload output operator. Use to output the object or result" alt="" coords="5,55,91,80"/>
+<area shape="rect" id="node2" href="$class_wind_log.html#af4025c4c6769a19f66497ab3cb83d126" title="Parameter Constructor for WindLog." alt="" coords="150,5,278,31"/>
+<area shape="rect" id="node3" href="$class_wind_log.html#ab30a4a66384efd0ffe8f207cbb575d6e" title="setter for the Date that is calling from the Date class" alt="" coords="149,55,279,80"/>
+<area shape="rect" id="node4" href="$class_wind_log.html#a79488bf889f5400acbb262d73dcaf243" title="setter for the Time that is calling from the Time class" alt="" coords="139,104,289,129"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MenuOption" name="MenuOption">
+<area shape="rect" id="node1" title="MenuOption Class is created to store option 1 to 5 and the menu lists." alt="" coords="211,915,326,1072"/>
+<area shape="rect" id="node2" href="$class_vector.html" title=" " alt="" coords="199,607,338,852"/>
+<area shape="rect" id="node3" href="$class_wind_log.html" title="WindLog Class is created to store the Date Class, Time Class and Weather Class." alt="" coords="146,335,258,493"/>
+<area shape="rect" id="node4" href="$class_date.html" title="Date Class is created to store the day, month and year." alt="" coords="5,5,127,221"/>
+<area shape="rect" id="node5" href="$class_time.html" title="Time Class is created to store the day, month and year." alt="" coords="151,35,253,192"/>
+<area shape="rect" id="node6" href="$class_weather.html" title="Weather Class is created to store the Speed, Solar and Temperature." alt="" coords="277,13,412,214"/>
+<area shape="rect" id="node7" href="$class_vector.html" title="Vector Class is created as a vector template to store the data inside into." alt="" coords="283,284,385,544"/>
+</map>

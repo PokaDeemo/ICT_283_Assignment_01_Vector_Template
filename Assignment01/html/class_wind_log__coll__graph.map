@@ -1,0 +1,6 @@
+<map id="WindLog" name="WindLog">
+<area shape="rect" id="node1" title="WindLog Class is created to store the Date Class, Time Class and Weather Class." alt="" coords="146,284,258,441"/>
+<area shape="rect" id="node2" href="$class_date.html" title="Date Class is created to store the day, month and year." alt="" coords="5,5,127,221"/>
+<area shape="rect" id="node3" href="$class_time.html" title="Time Class is created to store the day, month and year." alt="" coords="151,35,253,192"/>
+<area shape="rect" id="node4" href="$class_weather.html" title="Weather Class is created to store the Speed, Solar and Temperature." alt="" coords="277,13,412,214"/>
+</map>
